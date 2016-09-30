@@ -1,0 +1,4 @@
+/usr/bin
+/var/log/tephra
+/var/run/tephra
+/etc/default

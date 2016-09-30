@@ -1,0 +1,6 @@
+/etc/tephra
+/usr/lib/tephra
+/var/lib/tephra
+/var/run/tephra
+/var/run/tephra/webapps
+/usr/share/doc/tephra
